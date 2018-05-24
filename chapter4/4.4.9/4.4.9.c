@@ -3,8 +3,8 @@
 //
 #include <stdio.h>
 int A[15] = {1, 2,3, 4, 5, 6, 7, 9,10,11,12,13,14, 15,16};
-int length = 16;
-void lack(int low, int high);
+    int length = 16;12
+    void lack(int low, int high);
 int k;
 int main(){
     lack(0, 15);
